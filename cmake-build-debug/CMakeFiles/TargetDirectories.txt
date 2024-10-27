@@ -1,0 +1,3 @@
+/Users/buchkovv/CLionProjects/school_of_quants_project/cmake-build-debug/CMakeFiles/school_of_quants_project.dir
+/Users/buchkovv/CLionProjects/school_of_quants_project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/buchkovv/CLionProjects/school_of_quants_project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
